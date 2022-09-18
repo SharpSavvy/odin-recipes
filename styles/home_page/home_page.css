@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
-
+:root{
+    --clr-primary: #e25a00;
+    --clr-secondary:#ec9e6a;
+    --clr-grey-1:#2c2c2c;
+    --clr-grey-5:#807e7d;
+    --clr-grey-10:#cfcbc8;
+    --clr-white:#fff;
+}
 *{
     margin:0;
     padding: 0;
@@ -12,5 +19,4 @@ h1{
 .logo{
   width: 20%;
   align-items: center;
-
 }
