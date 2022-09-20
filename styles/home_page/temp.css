@@ -1,0 +1,27 @@
+.circle{
+
+    position: absolute;
+    width: 100vh;
+    height: 100vh;
+}
+.recipe1{
+    margin-top: 50%;
+    -webkit-transform:rotate(20deg);
+    -moz-transform:rotate(20deg);
+    -o-transform:rotate(20deg);
+    transform:rotate(20deg);
+    background: rgb(128, 15, 0);
+    clip: rect(0vh,50vh, 100vh, 0vh)
+}
+.recipe2{
+    margin-top: 50%;
+    -webkit-transform:rotate(100deg);
+    -moz-transform:rotate(100deg);
+    -o-transform:rotate(100deg);
+    transform:rotate(100deg);
+    background: green;
+    clip: rect(0px,50px, 100px, 0px)
+
+}
+
+,.test2, .test3, .test4, .test5,.test6, .test7, .test8
